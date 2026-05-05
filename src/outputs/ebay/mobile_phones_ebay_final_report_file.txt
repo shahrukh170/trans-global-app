@@ -1,0 +1,38 @@
+{
+    "0": {
+        "title": "Apple iPhone 5 5C 5S 8GB 16GB 32GB 64GB Unlocked 4G iOS mobilephone, Tested GOOD",
+        "price": 16240.0,
+        "link": "https://www.ebay.com/itm/197106871532?_skw=mobile+phones&epid=240420140&itmmeta=01JRC109XKT73EQAXYB0EB9C21&hash=item2de47c2cec:g:LksAAOSwY0Nn09NK&itmprp=enc%3AAQAKAAAA0FkggFvd1GGDu0w3yXCmi1f8IzhdHFtt0y8uXB%2BVJdxmWUiPCG36ShzszlKfz2G2Plmo29FxlyLKeQLd8E44ClVCyv%2BsFYTlp6a839XSi98z0Fx64bfTfSEHFhiIjAyHsZk3eVr7XFi4jwQDIIcrn9ES4HEIFh5CLOXL%2BxQtTilWdMgKdQ3vF7EzxlcU%2BUBKf2gw1WnnyhXSG5c5mN0prN8Lr9hGzkDDCeKecBo7qh9Hdpq11Sv9oRXBiy5tSIUpwuZ4YsaZhjsLso1ERt5zASU%3D%7Ctkp%3ABk9SR6yfgYHDZQ",
+        "curr_sell_vol": 6.0
+    },
+    "1": {
+        "title": "GT10 Pro 6.8 inch Android Smartphone 8GB+128GB 4G Global Unlocked Cell Phone",
+        "price": 22265.6,
+        "link": "https://www.ebay.com/itm/176691892273?_skw=mobile+phones&itmmeta=01JRC109XKRH50SB35TWWEPABW&hash=item2923a85031:g:bA0AAOSwTEBnPA8x&itmprp=enc%3AAQAKAAAA0FkggFvd1GGDu0w3yXCmi1dtBqIie%2FkjGhAS2BVeuzyThnqpXXgeu65AS76biy3vHEuWLfDeYO%2B3S9%2FJZqbaK92fJZ4RnWCf294YFXEThOt3bP8Lq7hCxXz8mcYQ%2BB6DqZ14ug%2BxuWbbJ9ijSAD02XWEyLTvSUUNL8yDxOVI99F5JgMIauF3%2BMRmOSSvuUR68qfmbWU3OhkQCwHzuzx4JAxlEe7IXMPSjgIO0SiBnHqTvmkUZOW%2BTGeU3mYGXNSY9oGBYJoRUkTyA9RFYpqIOwo%3D%7Ctkp%3ABk9SR66fgYHDZQ",
+        "curr_sell_vol": 282.0
+    },
+    "2": {
+        "title": "UMIDIGI BISON X20 12GB+128GB NFC 6000mAh Android Rugged Unlocked Smartphone",
+        "price": 47625.200000000004,
+        "link": "https://www.ebay.com/itm/286269366002?_skw=mobile+phones&itmmeta=01JRC109XKK2949MKYM8RPQAFW&hash=item42a6fbdef2:g:bDsAAOSwjThnihUy&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1co2d1Hvnrn9WLuNyoCbbkX0V%2FunaUpxW8oxA0dGxnQLWt7Ig5SULdyOj0KEhVrBQovEbrxZA8hj6juoQPtMWveo5iDPuDxtAMV%2FMK84q2S73jupQPYvjMrsXzjIErNJEvr3A0rIAouchNXvDYa6Mf%2Bmyz6TN9bPydkl1pjiJ84H1AwZulEYbQQT%2FuuhMV1RebyYUv1vD3yVJEzLOuAdOWUZj5KwhW0o%2F7cT4IDpQyosg%3D%3D%7Ctkp%3ABlBMUK6fgYHDZQ",
+        "curr_sell_vol": 480.0
+    },
+    "3": {
+        "title": "New in Box Google Pixel 9 128GB Obsidian AT&T NEW & SEALED",
+        "price": 112056.0,
+        "link": "https://www.ebay.com/itm/126909839778?_skw=mobile+phones&epid=8072667306&itmmeta=01JRC109XMBDVBM7YKFA9DXXGX&hash=item1d8c6a79a2:g:J1AAAOSwF4RnjWfo&itmprp=enc%3AAQAKAAAA0FkggFvd1GGDu0w3yXCmi1fSZf11uF%2BfOvjntOncbLvYIfz0zftYn%2FIkB6YH04V55B%2FrG458npn9tYEOt97YMPzx2Rmk3DX9S8teL3He0OQCve8Vts6yN360Xzt1K0JAz1Y7jVME3GmE3Y1X%2BeimAK1elI3%2FnXuG9ih5lcHvWaoVZZhFee1l6B2--xYc%2FOMAt26jXkY8IKl01XqM6gwgjByjpfQVmtnKXxGWdZ2YvyjUHt4Kr7C3vUjplfbqTAP3jzqQ9A%2FyyeJzHvEm46chryg%3D%7Ctkp%3ABk9SR7CfgYHDZQ",
+        "curr_sell_vol": 575.0
+    },
+    "4": {
+        "title": "NEW Motorola Edge (2024) 256GB 5G FACTORY UNLOCKED 6.6\" Smartphone",
+        "price": 66640.0,
+        "link": "https://www.ebay.com/itm/235850449124?_skw=mobile+phones&itmmeta=01JRC109XM57X0HB5T09BHT68J&hash=item36e9c840e4:g:KngAAOSwAVNnSiR4&itmprp=enc%3AAQAKAAAA0FkggFvd1GGDu0w3yXCmi1drpii006E7aMynJ5yWzioatc1mAvouE2JfJrKER7hENSkwuKyz8ohnMBjs6H%2BXKHZMQFBnnkTvA%2FTP4p0fXvvOtiCIh2TYbT8etn89S7gsYK9s8BSLmtIjAq2L1uNn3Y0Ns3DAgpywc9SfEqWg%2BV5DcWxyL0%2BWr0r5Q8zYdSMBt%2BKSUdu208fw3iAwFuuDQE1Ol0RNZ7hs0%2BhfTDL0RNPSxX7oychpyHaDSwtdG59gmPvALa9C%2Bdqn0b8zFDKTtx4%3D%7Ctkp%3ABk9SR7KfgYHDZQ",
+        "curr_sell_vol": 2024.0
+    },
+    "5": {
+        "title": "Brand New - Motorola Moto G Power (2025) Unlocked - 8/128GB - 50MP - Leaf Green",
+        "price": 79800.0,
+        "link": "https://www.ebay.com/itm/306220586912?_skw=mobile+phones&itmmeta=01JRC128DJ5F5Q81HADEB65P1A&hash=item474c2b57a0:g:EkwAAOSwOV9n5UX~&itmprp=enc%3AAQAKAAAA0FkggFvd1GGDu0w3yXCmi1eBNno7h5p%2BuNAFQB20k0QBckY1wg4rRcJ3Q7p3wX9CQj5d9KUfYCfJ4v8qjWPQSwzCA1TCoGKAgbpH34q1Tf92aQ1jJi51Gxzta2ga9OeNwlnqNtZ4wqiYZ3oBdNSYAmX59sXzjnG5b%2B9gh%2FDaTbbs6lYhAI63zpBcNAk%2FLhHOI8hgnK6wu9XgJ%2Be2nsOfWbmdFWHV%2BeyYEXO%2BMAD3NrMnwAN532H5k3uxcJ8E0xzZ4YK4TagTnxcPRsyYLS%2F7CXY%3D%7Ctkp%3ABk9SR6qHiYHDZQ",
+        "curr_sell_vol": 2025.0
+    }
+}

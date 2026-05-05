@@ -1,0 +1,397 @@
+{
+  "Antenne réseau": [
+    "antenne",
+    "réseau",
+    "signal",
+    "réception",
+    "4g",
+    "5g",
+    "lte",
+    "network",
+    "signal faible",
+    "pas de réseau",
+    "appels coupés",
+    "internet lent",
+    "bars",
+    "réception faible"
+  ],
+  "Appareil photo arrière": [
+    "caméra arrière",
+    "appareil photo arrière",
+    "photo arrière",
+    "capteur arrière",
+    "rear camera",
+    "camera back",
+    "photo dos",
+    "caméra principale"
+  ],
+  "Appareil photo avant": [
+    "caméra avant",
+    "appareil photo avant",
+    "selfie",
+    "photo avant",
+    "capteur avant",
+    "front camera",
+    "camera selfie",
+    "facetime",
+    "visiophone"
+  ],
+  "Autres pannes": [
+    "divers",
+    "multiple",
+    "autre",
+    "varié",
+    "différent",
+    "problème inconnu",
+    "diagnostic",
+    "panne multiple",
+    "non identifié"
+  ],
+  "Batterie": [
+    "batterie",
+    "autonomie",
+    "charge",
+    "alimentation",
+    "power",
+    "batterie faible",
+    "charge rapide",
+    "décharge",
+    "ne charge plus",
+    "batterie morte",
+    "autonomie faible",
+    "se décharge vite",
+    "s'épuise rapidement",
+    "battery",
+    "charging",
+    "power issue",
+    "autonomie courte"
+  ],
+  "Batterie Secondaire": [
+    "batterie secondaire",
+    "deuxième batterie",
+    "batterie additionnelle",
+    "batterie externe",
+    "secondary battery",
+    "backup battery"
+  ],
+  "Bouton HOME": [
+    "bouton home",
+    "bouton central",
+    "bouton principal",
+    "home button",
+    "bouton tactile",
+    "bouton home cassé",
+    "home ne marche pas"
+  ],
+  "Bouton ON/OFF": [
+    "bouton power",
+    "bouton on/off",
+    "bouton marche/arrêt",
+    "power button",
+    "bouton veille",
+    "bouton allumage",
+    "interrupteur",
+    "bouton power cassé"
+  ],
+  "Bouton volume": [
+    "bouton volume",
+    "bouton son",
+    "volume up",
+    "volume down",
+    "bouton +",
+    "bouton -",
+    "volume button",
+    "bouton volume cassé"
+  ],
+  "Caméra Arrière Grand-Angle": [
+    "caméra grand angle",
+    "grand angle",
+    "wide angle",
+    "photo paysage",
+    "photo groupe",
+    "camera wide",
+    "ultra wide"
+  ],
+  "Caméra Arrière Ultra Grand-Angle": [
+    "ultra grand angle",
+    "ultra wide",
+    "angle très large",
+    "photo très large",
+    "super wide",
+    "0.5x",
+    "ultra wide angle"
+  ],
+  "Capteur de proximité": [
+    "capteur",
+    "proximité",
+    "capteur de proximité",
+    "écran qui s'éteint",
+    "proximity sensor",
+    "capteur ne marche pas",
+    "détection visage",
+    "pendant les appels",
+    "écran s'éteint"
+  ],
+  "Chassis": [
+    "chassis",
+    "carcasse",
+    "structure",
+    "cadre",
+    "frame",
+    "chassis tordu",
+    "chassis endommagé",
+    "structure déformée"
+  ],
+  "Connecteur de charge": [
+    "charge",
+    "chargeur",
+    "connecteur",
+    "port de charge",
+    "usb",
+    "câble",
+    "branchement",
+    "charging port",
+    "port usb",
+    "ne charge pas",
+    "port endommagé",
+    "connecteur cassé",
+    "usb port",
+    "lightning port",
+    "port charging"
+  ],
+  "Deblocage": [
+    "déblocage",
+    "bloqué",
+    "verrouillé",
+    "déverrouillage",
+    "unlock",
+    "mot de passe oublié",
+    "compte bloqué",
+    "débloquer téléphone"
+  ],
+  "Ecouteur": [
+    "écouteur",
+    "casque",
+    "prise écouteur",
+    "jack",
+    "audio",
+    "son écouteur",
+    "prise casque",
+    "earphone",
+    "headphone jack"
+  ],
+  "Ecran LCD": [
+    "écran lcd",
+    "lcd",
+    "affichage",
+    "display",
+    "écran",
+    "screen",
+    "lcd cassé",
+    "affichage endommagé",
+    "écran noir",
+    "pixels morts"
+  ],
+  "Façade arrière": [
+    "façade arrière",
+    "dos",
+    "back",
+    "arrière",
+    "coque arrière",
+    "back cover",
+    "rear panel",
+    "dos cassé",
+    "arrière endommagé"
+  ],
+  "Façade arrière avec afficheur": [
+    "façade arrière afficheur",
+    "dos avec écran",
+    "back with display",
+    "arrière écran",
+    "secondary display"
+  ],
+  "Façade arrière basse": [
+    "façade arrière basse",
+    "dos bas",
+    "lower back",
+    "back bottom"
+  ],
+  "Façade arrière haute": [
+    "façade arrière haute",
+    "dos haut",
+    "upper back",
+    "back top"
+  ],
+  "Façade avant": [
+    "façade avant",
+    "écran",
+    "vitre avant",
+    "tactile",
+    "lcd",
+    "affichage",
+    "display",
+    "écran cassé",
+    "vitre fissurée",
+    "touch",
+    "verre avant",
+    "glass avant",
+    "screen",
+    "cracked screen",
+    "affichage noir",
+    "écran noir",
+    "tactile ne marche pas"
+  ],
+  "Façade avant Externe": [
+    "façade avant externe",
+    "vitre externe",
+    "external glass",
+    "verre externe",
+    "glass outer"
+  ],
+  "Façade avant interne": [
+    "façade avant interne",
+    "écran interne",
+    "internal screen",
+    "display interne"
+  ],
+  "Haut parleur": [
+    "haut-parleur",
+    "son",
+    "audio",
+    "volume",
+    "speaker",
+    "enceinte",
+    "sortie son",
+    "audio cassé",
+    "son craque",
+    "pas de son",
+    "volume bas",
+    "speaker broken",
+    "son distordu"
+  ],
+  "Haut parleur Supérieur": [
+    "haut-parleur supérieur",
+    "speaker haut",
+    "upper speaker",
+    "speaker ear",
+    "haut-parleur appel"
+  ],
+  "Haut parleur inférieur": [
+    "haut-parleur inférieur",
+    "speaker bas",
+    "lower speaker",
+    "speaker principal",
+    "haut-parleur media"
+  ],
+  "Hublot Appareil photo": [
+    "hublot",
+    "hublot caméra",
+    "camera lens",
+    "lentille externe",
+    "camera window",
+    "hublot photo"
+  ],
+  "Lecteur interne Carte SD": [
+    "lecteur sd",
+    "carte sd",
+    "microsd",
+    "slot sd",
+    "sd card",
+    "carte mémoire",
+    "stockage",
+    "memory card"
+  ],
+  "Lentille Appareil Photo": [
+    "lentille",
+    "objectif",
+    "camera lens",
+    "lentille caméra",
+    "photo",
+    "focus",
+    "flou",
+    "lens",
+    "objectif cassé"
+  ],
+  "Micro": [
+    "micro",
+    "microphone",
+    "appel",
+    "voix",
+    "interlocuteur",
+    "m'entend pas",
+    "micro cassé",
+    "voix cassée",
+    "qualité audio",
+    "micro bruit",
+    "micro ne marche pas"
+  ],
+  "NFC": [
+    "nfc",
+    "paiement",
+    "contactless",
+    "sans contact",
+    "google pay",
+    "apple pay",
+    "paiement mobile",
+    "nfc ne marche pas"
+  ],
+  "Nappe de connexion centrale": [
+    "nappe",
+    "câble interne",
+    "ribbon cable",
+    "connexion interne",
+    "câble écran",
+    "nappe mère"
+  ],
+  "Prise casque": [
+    "prise casque",
+    "jack",
+    "prise audio",
+    "prise écouteur",
+    "headphone jack",
+    "3.5mm",
+    "prise jack"
+  ],
+  "Stylet": [
+    "stylet",
+    "stylus",
+    "s pen",
+    "pen",
+    "stylo",
+    "stylet ne marche pas",
+    "s pen cassé"
+  ],
+  "Tiroir carte Sim": [
+    "tiroir sim",
+    "slot sim",
+    "carte sim",
+    "sim card",
+    "port sim",
+    "sim tray",
+    "tiroir endommagé"
+  ],
+  "Vibreur": [
+    "vibreur",
+    "vibration",
+    "haptic",
+    "vibreur ne marche pas",
+    "pas de vibration",
+    "vibration cassée"
+  ],
+  "Vitre tactile": [
+    "vitre tactile",
+    "glass tactile",
+    "touch glass",
+    "verre tactile",
+    "vitre avant"
+  ],
+  "Wifi": [
+    "wifi",
+    "wi-fi",
+    "connexion wifi",
+    "wifi faible",
+    "wifi ne marche pas",
+    "pas de wifi",
+    "connexion internet"
+  ]
+}

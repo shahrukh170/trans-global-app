@@ -1,0 +1,26 @@
+{
+    "0": {
+        "title": "Plush Velvet Jai Namaz quilted Prayer Mats Premium Orthopedic Foam Quilted Velvet Prayer Rug | Anti Slip Quilted Janamaz, Printed ^ Jaye Namaz Religious Items\nRs. 1,169\n662 sold\n(129)\nSindh",
+        "price": 1169.0,
+        "link": "https://www.daraz.pk/products/-i540912432.html",
+        "curr_sell_vol": 1.0
+    },
+    "1": {
+        "title": "Large Size Muslim Foldable Portable prayer Mat for travelling, Portable Travel Prayer Pocket Mat - Musallah - Sajjadah - Janimaz - Janamaz - Jaenamaz - safri janamaz- Islamic - Multi Color\nRs. 181\n2.3K sold\n(129)\nSindh",
+        "price": 181.0,
+        "link": "https://www.daraz.pk/products/-i496625237.html",
+        "curr_sell_vol": 662.0
+    },
+    "2": {
+        "title": "Modern Orthopedic Foam Prayer Mat | Premium Velvet Quilted Jai Namaz(70x110)cm\nRs. 699\nCoins save Rs. 21\n252 sold\n(54)\nSindh",
+        "price": 699.0,
+        "link": "https://www.daraz.pk/products/-i544555255.html",
+        "curr_sell_vol": 2300.0
+    },
+    "3": {
+        "title": "Travel Prayer Mat Foldable Travel Pocket Prayer Mat, Pocket Janamaz Safri Janamaz. (Random Print)\nRs. 139\n246 sold\n(14)\nSindh",
+        "price": 139.0,
+        "link": "https://www.daraz.pk/products/-i489522970.html",
+        "curr_sell_vol": 7300.0
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "0": {
+        "title": "Finger counter digital tasbeeh-Pack of 1 Finger Counter Digital Tasbeeh / Digital Counter Finger Ring - Tally Counter - Digital Tasbih\nRs. 53\n935 sold\n(29)\nSindh",
+        "price": 53.0,
+        "link": "https://www.daraz.pk/products/1-i669367713.html",
+        "curr_sell_vol": 1.0
+    },
+    "1": {
+        "title": "Digital LED Finger Tally Counter Tasbeeh - Ring Counter Tasbih\nRs. 1,249\n3.8K sold\n(501)\nSindh",
+        "price": 1249.0,
+        "link": "https://www.daraz.pk/products/digital-led-finger-tally-counter-tasbeeh-ring-counter-tasbih-i341700133.html",
+        "curr_sell_vol": 935.0
+    },
+    "2": {
+        "title": "Digital Finger Ring Tally Counter Tasbeeh - 5-Digit Zikr Clicker with LED Backlight & Night Mode LCD Display for Prayer Counting\nRs. 249\nCoins save Rs. 2\n1.3K sold\n(186)\nSindh",
+        "price": 249.0,
+        "link": "https://www.daraz.pk/products/digital-finger-ring-tally-counter-tasbeeh-5-digit-zikr-clicker-with-led-backlight-night-mode-lcd-display-for-prayer-counting-i209026467.html",
+        "curr_sell_vol": 3800.0
+    },
+    "3": {
+        "title": "Digital Tasbeeh Finger Counter Muslim Islamic Rotating Digital Tasbeeh Prayer Beads Tally Counter\nRs. 590\n27 sold\n(1)\nPunjab",
+        "price": 590.0,
+        "link": "https://www.daraz.pk/products/-i705236807.html",
+        "curr_sell_vol": 5200.0
+    },
+    "4": {
+        "title": "Pack of 1 Finger Counter Digital Tasbeeh / Digital Counter Finger Ring - Tally Counter - Digital Tasbih (Homeducts)\nRs. 100\n48 sold\n(4)\nSindh",
+        "price": 100.0,
+        "link": "https://www.daraz.pk/products/1-i637762520.html",
+        "curr_sell_vol": 5800.0
+    }
+}

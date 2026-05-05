@@ -1,0 +1,8 @@
+{
+    "0": {
+        "title": "12 Pairs Mens Ankle Quarter Athletic Socks Cotton Low Cut Casual Size 9-11,10-13",
+        "price": 4057.2000000000003,
+        "link": "https://www.ebay.com/itm/126109730963?_skw=cotton+socks&itmmeta=01JRF1H0SYZ5A0VJQ4BRWW9684&hash=item1d5cb9c893:g:j8EAAOSwQfZl0ee2&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1dX8zFkxXNST3aqce42CobTd%2FARkpoJwY66EUHbddKe%2FD1JsANGibI%2FrFGdCgTKP2whXnJaDTxlVKYjL4in0B%2FihuYYha41vj2PgGc6h09lN0vXEnZQT0RbeGrmrtQtVIxY7DdI41Z6vmMiPWMsBj9LnK6SPMaISc%2FlonxEUEvcouuSdg18BSqcCVRlJQeeniVAjZg4dYxd0lcgxby%2Bpy6xPLHtJelgBIoF%2F5axXLbhZg%3D%3D%7Ctkp%3ABlBMUKyNxOHDZQ",
+        "curr_sell_vol": 1.0
+    }
+}

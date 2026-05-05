@@ -1,0 +1,62 @@
+{
+    "0": {
+        "title": "Samsung Galaxy A16 6 GB RAM - 128 GB ROM\nRs. 44,999\n25 sold\n(5)\nSindh",
+        "price": 44999.0,
+        "link": "https://www.daraz.pk/products/6-gb-a16-128-gb-i651580233.html",
+        "curr_sell_vol": 1.0
+    },
+    "1": {
+        "title": "Samsung Galaxy S25 Ultra 12 GB RAM + 512 GB ROM\nRs. 410,999\n43 sold\n(6)\nSindh",
+        "price": 410999.0,
+        "link": "https://www.daraz.pk/products/samsung-galaxy-ultra-12-gb-ram-512-gb-rom-i666803991.html",
+        "curr_sell_vol": 25.0
+    },
+    "2": {
+        "title": "Daraz Like New Phones - Apple iPhone 12 Pro 128GB Factory Unlocked - NON - PTA (FREE CHARGER & COVER)\nRs. 107,999\n140 sold\n(7)\nSindh",
+        "price": 107999.0,
+        "link": "https://www.daraz.pk/products/12-128gb-pta-i462476589.html",
+        "curr_sell_vol": 43.0
+    },
+    "3": {
+        "title": "Samsung Galaxy A16 8 GB RAM - 256 GB ROM\nRs. 49,999\n193 sold\n(25)\nSindh",
+        "price": 49999.0,
+        "link": "https://www.daraz.pk/products/8-gb-a16-256-gb-i651583423.html",
+        "curr_sell_vol": 140.0
+    },
+    "4": {
+        "title": "Apple Iphone 15 Pro Max - Factory Locked - Non PTA - Both Esim - 1 year Brand Offical Warranty\nRs. 229,999\nCoins save Rs. 2,300\nSindh",
+        "price": 229999.0,
+        "link": "https://www.daraz.pk/products/15-pta-esim-1-i631427157.html",
+        "curr_sell_vol": 193.0
+    },
+    "5": {
+        "title": "Apple iPhone 12 128 GB - NON PTA Factory Unlocked (FREE CHARGER & COVER) - Daraz Like New Phones\nRs. 85,999\n34 sold\n(1)\nSindh",
+        "price": 85999.0,
+        "link": "https://www.daraz.pk/products/12-128-gb-pta-i462467643.html",
+        "curr_sell_vol": 932.0
+    },
+    "6": {
+        "title": "Iphone 6 Non pta Good Condition with Free Charger\nRs. 6,825\n840 sold\n(69)\nSindh",
+        "price": 6825.0,
+        "link": "https://www.daraz.pk/products/6-pta-i580340182.html",
+        "curr_sell_vol": 1300.0
+    },
+    "7": {
+        "title": "NOKIA 106 DUAL SIM PTA APPROVED LONG LASTING BATTERY\nRs. 2,299\nCoins save Rs. 23\n2.1K sold\n(314)\nSindh",
+        "price": 2299.0,
+        "link": "https://www.daraz.pk/products/106-pta-i479018208.html",
+        "curr_sell_vol": 1500.0
+    },
+    "8": {
+        "title": "Redmi A3x - 6.71 Inches Display - 3GB RAM 64GB ROM - 8MP Rear Camera - 5MP Fornt Camera - Dual SIM - 5000mAH Battery\nRs. 18,499\n40 sold\n(2)\nSindh",
+        "price": 18499.0,
+        "link": "https://www.daraz.pk/products/a3x-3gb-64gb-8mp-5mp-671-mah-i497213062.html",
+        "curr_sell_vol": 2100.0
+    },
+    "9": {
+        "title": "Apple iPhone 12 Pro 128GB - NON PTA Factory Unlocked (FREE CHARGER & COVER) - Daraz Like New Phones\nRs. 109,999\n8 sold\n(1)\nSindh",
+        "price": 109999.0,
+        "link": "https://www.daraz.pk/products/12-128gb-pta-i462471529.html",
+        "curr_sell_vol": 2400.0
+    }
+}

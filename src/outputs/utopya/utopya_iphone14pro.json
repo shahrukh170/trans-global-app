@@ -1,0 +1,23 @@
+[
+    {
+        "brand": "apple",
+        "brand": "iphone 14 pro",
+        "listing":[
+            {
+                "name": "Ecran Complet iPhone 14 Pro (Pulled)",
+                "url": "https://www.utopya.fr/ecran-complet-iphone-14-pro-pulled.html",
+                "price": "160,85€"
+            },
+            {
+                "name": "Ecran Complet iPhone 14 Pro (Relife)",
+                "url": "https://www.utopya.fr/ecran-complet-iphone-14-pro.html",
+                "price": "129,15€"
+            },
+            {
+                "name": "Ecran Complet iPhone 14 Pro 120 Hz (Soft OLED) (BOLT)",
+                "url": "https://www.utopya.fr/ecran-complet-iphone-14-pro-120-hz-soft-oled-bolt.html",
+                "price": "73,83€"
+            }
+        ]
+    }
+]

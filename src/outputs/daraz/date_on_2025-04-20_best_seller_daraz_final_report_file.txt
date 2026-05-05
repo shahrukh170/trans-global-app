@@ -1,0 +1,32 @@
+{
+    "0": {
+        "title": "Original 100% Vooc fast Charging Cable Micro+Type C for Oppo f9, f11 and All Smartphones Vooc Flash Charge 7 Pin Data Sync Cable, A9 2020 R17 / R17 Pro (10V/5A) SUPER VOOC TYPE-C DATA CABLE 3.0 Life time Warranty\nRs. 345\nCoins save Rs. 3\n306 sold\n(48)\nPunjab",
+        "price": 345.0,
+        "link": "https://www.daraz.pk/products/original-100-vooc-fast-charging-cable-microtype-c-for-oppo-f9-f11-and-all-smartphones-vooc-flash-charge-7-pin-data-sync-cable-a9-2020-r17-r17-pro-10v5a-super-vooc-type-c-data-cable-30-life-time-warranty-i335172738.html",
+        "curr_sell_vol": 1.0
+    },
+    "1": {
+        "title": "Pack of 4 Monster size happy birthday big balloons Mixed colours/large size balloons, Big Huge Size Giant Balloon Multicolors for party event Celebration;High Quality Latex Balloons\nRs. 179\nCoins save Rs. 2\n237 sold\n(24)\nPunjab",
+        "price": 179.0,
+        "link": "https://www.daraz.pk/products/4-i437404303.html",
+        "curr_sell_vol": 306.0
+    },
+    "2": {
+        "title": "Realme Original Micro USB Fast charging data cable | Micro USB data cable for android phones | Realme Micro USB Data cable\nRs. 191\n(1)\nPunjab",
+        "price": 191.0,
+        "link": "https://www.daraz.pk/products/usb-usb-usb-i490836090.html",
+        "curr_sell_vol": 880.0
+    },
+    "3": {
+        "title": "Data Cable - 100%High speed Charging Cable - Android Mobile phone Charging Cable\nRs. 110\n(2)\nPunjab",
+        "price": 110.0,
+        "link": "https://www.daraz.pk/products/data-cable-100high-speed-charging-cable-android-mobile-phone-charging-cable-i379846026.html",
+        "curr_sell_vol": 987.0
+    },
+    "4": {
+        "title": "Infinix High-Speed Micro USB Cable - White - Imported High Quality Fast Charging Cable For Android Mobile Phones - Best Android Phones Cables, Designed For Smartphones Latest 2021\nRs. 284\nCoins save Rs. 9\nPunjab",
+        "price": 284.0,
+        "link": "https://www.daraz.pk/products/infinix-high-speed-micro-usb-cable-white-imported-high-quality-fast-charging-cable-for-android-mobile-phones-best-android-phones-cables-designed-for-smartphones-latest-2021-i361047543.html",
+        "curr_sell_vol": 1400.0
+    }
+}

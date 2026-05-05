@@ -1,0 +1,38 @@
+{
+    "0": {
+        "title": "SRS Socks For Men Pack of 3 Socks - Cotton Socks Random Color\nRs. 349\nCoins save Rs. 17\n624 sold\n(207)\nPunjab",
+        "price": 349.0,
+        "link": "https://www.daraz.pk/products/srs-socks-for-men-pack-of-3-socks-cotton-socks-random-color-i437361122.html",
+        "curr_sell_vol": 1.0
+    },
+    "1": {
+        "title": "Ankle Socks For Men - 6 Pairs Low-Cut Socks - Multi Colors Cotton Socks\nRs. 599\nCoins save Rs. 30\n121 sold\n(37)\nPunjab",
+        "price": 599.0,
+        "link": "https://www.daraz.pk/products/ankle-socks-for-men-6-pairs-low-cut-socks-multi-colors-cotton-socks-i459053604.html",
+        "curr_sell_vol": 624.0
+    },
+    "2": {
+        "title": "Code 6 Pairs Cotton Ankle Socks For Men Women Cotton Ankle Socks For Men No Show Low Cut Socks For Men Business Casual Socks For Men - 3 Random Colors\nRs. 450\n2.6K sold\n(544)\nSindh",
+        "price": 450.0,
+        "link": "https://www.daraz.pk/products/code-6-pairs-cotton-ankle-socks-for-men-women-cotton-ankle-socks-for-men-no-show-low-cut-socks-for-men-business-casual-socks-for-men-3-random-colors-i336771646.html",
+        "curr_sell_vol": 4000.0
+    },
+    "3": {
+        "title": "Pack of 4 - Lace Ankle Socks Soft Comfortable Transparent Silk women Cotton socks Elastic Mesh Knitted Transparent Ladies Ruffle Socks (Pink, Black, White and Cream)\nRs. 764\nCoins save Rs. 8\n173 sold\n(31)\nSindh",
+        "price": 764.0,
+        "link": "https://www.daraz.pk/products/pack-of-4-lace-ankle-socks-soft-comfortable-transparent-silk-women-cotton-socks-elastic-mesh-knitted-transparent-ladies-ruffle-socks-pink-black-white-and-cream-i202520260.html",
+        "curr_sell_vol": 6900.0
+    },
+    "4": {
+        "title": "Solid Color Breathable Cotton Five Fingers Socks Sports Running Sweat Absorbent Antibacterial Ankle Crew Sock\nRs. 607\nCoins save Rs. 6\n413 sold\n(37)\nOverseas",
+        "price": 607.0,
+        "link": "https://www.daraz.pk/products/-i431272873.html",
+        "curr_sell_vol": 16000.0
+    },
+    "5": {
+        "title": "I LOVE DADDY&MUMMY-Baby Socks With Bow Summer Mesh Kids Girl Knee High Socks Soft Cotton Breathable Solid Color Long Socks For Girls\nRs. 683\nCoins save Rs. 7\n61 sold\n(8)\nOverseas",
+        "price": 683.0,
+        "link": "https://www.daraz.pk/products/i-love-i363279403.html",
+        "curr_sell_vol": 21500.0
+    }
+}

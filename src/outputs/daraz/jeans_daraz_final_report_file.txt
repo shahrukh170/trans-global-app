@@ -1,0 +1,20 @@
+{
+    "0": {
+        "title": "Pack of 2 Denim Jeans For Man in Two colors, Black and Blue Color, Stretchable, Narrow, Skinny, Party Wear, Comfortable, (Premium Quality) - Stay Stylish\nRs. 799\n254 sold\n(6)\nSindh",
+        "price": 799.0,
+        "link": "https://www.daraz.pk/products/2-i578223254.html",
+        "curr_sell_vol": 1.0
+    },
+    "1": {
+        "title": "Bundle of 3 - Men's Denim Classic Jeans Pant - Dark Gray, Navy, Sky Blue Color\nRs. 1,023\n231 sold\n(31)\nSindh",
+        "price": 1023.0,
+        "link": "https://www.daraz.pk/products/bundle-of-3-mens-denim-classic-jeans-pant-dark-gray-navy-sky-blue-color-i383433859.html",
+        "curr_sell_vol": 254.0
+    },
+    "2": {
+        "title": "Cotton Jeans Pants for Men - Mens Pants - All Seasons Comfortable Pants for Boys - Stylish and Premium Quality\nRs. 1,349\nCoins save Rs. 13\n2.9K sold\n(544)\nPunjab",
+        "price": 1349.0,
+        "link": "https://www.daraz.pk/products/cotton-jeans-pants-for-men-mens-pants-all-seasons-comfortable-pants-for-boys-stylish-and-premium-quality-i388881321.html",
+        "curr_sell_vol": 7100.0
+    }
+}

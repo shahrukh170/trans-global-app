@@ -1,0 +1,32 @@
+{
+    "0": {
+        "title": "Pack of 2 Perfumes - F0gg Black with SIWAGEE Impression -100ml Each - For Boys ^ Mens- 2xPerfumes - Best For Gift\nRs. 1,199\nCoins save Rs. 36\n651 sold\n(81)\nPunjab",
+        "price": 1199.0,
+        "link": "https://www.daraz.pk/products/2-f0gg-100-2-i657757030.html",
+        "curr_sell_vol": 1.0
+    },
+    "1": {
+        "title": "Oud Collection --- Arabic Perfume Dirham_Men - Eau De Perfume - 100ml\nRs. 580\nCoins save Rs. 17\n6.4K sold\n(830)\nPunjab",
+        "price": 580.0,
+        "link": "https://www.daraz.pk/products/100-i438538850.html",
+        "curr_sell_vol": 651.0
+    },
+    "2": {
+        "title": "Top 5 Spray Samples Set | For Men | Pocket Perfume | Scents N Stories | 5ml\nRs. 805\nCoins save Rs. 24\n18.6K sold\n(4206)\nSindh",
+        "price": 805.0,
+        "link": "https://www.daraz.pk/products/top-5-spray-samples-set-for-men-pocket-perfume-scents-n-stories-5ml-i237128142.html",
+        "curr_sell_vol": 6400.0
+    },
+    "3": {
+        "title": "Pack of 2 perfumes black car and black market best for gift 100 ml each\nRs. 458\nCoins save Rs. 14\n2.1K sold\n(237)\nPunjab",
+        "price": 458.0,
+        "link": "https://www.daraz.pk/products/2-100-i502488465.html",
+        "curr_sell_vol": 18600.0
+    },
+    "4": {
+        "title": "Wanted By Rajab Butt Perfume For Men 50ml | Premium Fragrance | Long-Lasting Aroma\nRs. 902\n123 sold\n(9)\nSindh",
+        "price": 902.0,
+        "link": "https://www.daraz.pk/products/50-i678239458.html",
+        "curr_sell_vol": 21200.0
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "source_site": "save",
+  "scrape_started_at": "2026-04-05T11:57:47+00:00",
+  "scrape_finished_at": "2026-04-05T13:47:31+00:00",
+  "schema_version": 1,
+  "status": "completed",
+  "apply_cleaning": true,
+  "row_count": 3543,
+  "paths": {
+    "json_bundle": "scraper\\outputs\\save_repair_prices_20260405_1157470000.json",
+    "jsonl": "scraper\\outputs\\save_repair_prices_20260405_1157470000.jsonl",
+    "csv": "scraper\\outputs\\save_repair_prices_20260405_1157470000.csv",
+    "run_json": "scraper\\outputs\\save_repair_prices_20260405_1157470000_run.json",
+    "issues_jsonl": "scraper\\outputs\\save_repair_prices_20260405_1157470000_issues.jsonl"
+  },
+  "cleaning": {
+    "data_type": "repair_price",
+    "input_rows": 3543,
+    "dropped_missing": 0,
+    "dropped_outliers": 0,
+    "removed_duplicate_rows": 0,
+    "output_rows": 3543
+  },
+  "counts": {
+    "fetch_errors": 10,
+    "issues_total": 10
+  }
+}

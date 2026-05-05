@@ -1,0 +1,50 @@
+{
+    "0": {
+        "title": "iPhone 20W USB C Power Adapter Data for Apple 14/14 Pro/14 Pro Max/14 Plus/13/13Pro/12/12 Pro/11/11Pro/X/XR. charger\nRs. 640\nCoins save Rs. 19\n56 sold\n(24)\nPunjab",
+        "price": 640.0,
+        "link": "https://www.daraz.pk/products/20-usb-c-1414-14-14-1313pro1212-1111proxxr-i698939752.html",
+        "curr_sell_vol": 1.0
+    },
+    "1": {
+        "title": "Samsung 25W with original cable Usb Type C Fast Charger Pd Wall Power Adapter Samsung 25W Fast Charger with Type C to Type C Cable Pd Charger For all Mobile Phone\nRs. 699\n136 sold\n(21)\nPunjab",
+        "price": 699.0,
+        "link": "https://www.daraz.pk/products/samsung-25w-with-original-cable-usb-type-c-fast-charger-pd-wall-power-adapter-samsung-25w-fast-charger-with-type-c-to-type-c-cable-pd-charger-for-all-mobile-phone-i592920737.html",
+        "curr_sell_vol": 56.0
+    },
+    "2": {
+        "title": "Samsung Charger 25w Original Adapter - PD Charger Fast Charging Type c To Type C Cable - Mobile Charger - Fast Charger For Android S21 S20 Galaxy Note 20 Ultra Note10\nRs. 884\n37 sold\n(19)\nSindh",
+        "price": 884.0,
+        "link": "https://www.daraz.pk/products/samsung-charger-25w-original-adapter-pd-charger-fast-charging-type-c-to-type-c-cable-mobile-charger-fast-charger-for-android-super-fast-charger-i677440565.html",
+        "curr_sell_vol": 136.0
+    },
+    "3": {
+        "title": "100% Original Vivo 18W Fast Charging Dual Engine 18W Fast Charger Adapter QualComm3.0 For Andriod High Quality Charger With Fast Option With Type C And Micro Data Cable\nRs. 599\n363 sold\n(51)\nPunjab",
+        "price": 599.0,
+        "link": "https://www.daraz.pk/products/100-original-vivo-18w-fast-charging-dual-engine-18w-fast-charger-adapter-qualcomm30-for-andriod-high-quality-charger-with-fast-option-with-type-c-and-micro-data-cable-i512088556.html",
+        "curr_sell_vol": 818.0
+    },
+    "4": {
+        "title": "Original Samsung S21 S20 25W Super Fast Charger | Super Adaptive Fast PD USB-C Charger With Original Type-C Cable For Samsung GALAXY S21 UItra S21 + S20 FE S10 S9 F12 F02S M42 5G F52 A72 A32 M62 M51\nRs. 817\nCoins save Rs. 8\n1.0K sold\n(238)\nPunjab",
+        "price": 817.0,
+        "link": "https://www.daraz.pk/products/original-samsung-25w-super-fast-charger-super-adaptive-fast-pd-usb-c-charger-with-original-type-c-cable-for-samsung-galaxy-uitra-fe-f12-f02s-m42-5g-f52-a72-a32-m62-m51-i459187107.html",
+        "curr_sell_vol": 1900.0
+    },
+    "5": {
+        "title": "Oneplus Charger With Cable Type C - Adapter Min Output 30Watt And Max Output 100Watt Compatibile With Oneplus All Old and New Models INCLUDED; OnePlus 7 OnePlus 7Pro OnePlus 7T OnePlus 7TPro OnePlus Nord OnePlus N10 Fast Charge: OnePlus 3 OnePlus 3T OnePl\nRs. 790\n226 sold\n(41)\nPunjab",
+        "price": 790.0,
+        "link": "https://www.daraz.pk/products/oneplus-charger-with-cable-type-c-adapter-min-output-30watt-and-max-output-100watt-compatibile-with-oneplus-all-old-and-new-models-i503640558.html",
+        "curr_sell_vol": 4100.0
+    },
+    "6": {
+        "title": "Original 100% Vivo_ 44w Flash charger Original Vivo_ Dual Engine charger for Vivo_V20 Se V19 V20 V23 V23e V21 V21e V17 Pro X50 Pro X60 Fast Flash Charging Dual Engine Charging Charge vivo mobile y100 y17s vivo y03\nRs. 1,830\nCoins save Rs. 18\n126 sold\n(23)\nPunjab",
+        "price": 1830.0,
+        "link": "https://www.daraz.pk/products/100-44-33-v20-se-v19-v20-v23-v23e-v21-v21e-v17-x50-x60-i438047084.html",
+        "curr_sell_vol": 12300.0
+    },
+    "7": {
+        "title": "\ud83d\udd25 \u3010Readystock\u3011 + FREE Shipping+COD\ud83d\udd2545W USB Charger Fast Charging 4 Ports Type C Phone Charger Adapter For iPhone Samsung Xiaomi Digital Display USB C Wall Charger\nRs. 1,241\n118 sold\n(16)\nOverseas",
+        "price": 1241.0,
+        "link": "https://www.daraz.pk/products/cod-usb-c-45-usb-4-c-i438997254.html",
+        "curr_sell_vol": 21100.0
+    }
+}

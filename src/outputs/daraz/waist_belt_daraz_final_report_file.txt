@@ -1,0 +1,26 @@
+{
+    "0": {
+        "title": "Hot slimming belt, Waist slimming belt, Fat burning slimming belt, Hot sauna belt, Belly fat slimming belt, Weight loss hot belt, Slimming belt for men and women, Tummy control slimming belt, Hot compression slimming belt, Fat burning sauna belt for women\nRs. 349\n240 sold\n(25)\nPunjab",
+        "price": 349.0,
+        "link": "https://www.daraz.pk/products/-i646326853.html",
+        "curr_sell_vol": 1.0
+    },
+    "1": {
+        "title": "PIXIE Electric Period Cramp Massager Heating Belt for Menstrual Colic Relief Pain Waist Stomach Abdominal Warm Palace Belt\nRs. 2,599\nCoins save Rs. 104\n744 sold\n(101)\nPunjab",
+        "price": 2599.0,
+        "link": "https://www.daraz.pk/products/pixie-electric-period-cramp-massager-heating-belt-for-menstrual-colic-relief-pain-waist-stomach-abdominal-warm-palace-belt-i436140814.html",
+        "curr_sell_vol": 240.0
+    },
+    "2": {
+        "title": "Hot Shaper Belt For Women Men Girls | Hot Shapper Belt For Hips Belly Fat Weight Loss Back Pain | Hot Shapers Slimming Belt Suana Sweat Belt Suit For Home Gym\nRs. 338\n13.6K sold\n(1658)\nPunjab",
+        "price": 338.0,
+        "link": "https://www.daraz.pk/products/-i361595630.html",
+        "curr_sell_vol": 744.0
+    },
+    "3": {
+        "title": "Sweat Belt Waist Trainer Body Adjustable Girdle Trimmer Gym Sports Caloric Burner Workout Fitness Abs Sweat Wrap Tummy Slimming Posture Support Belt\nRs. 582\nCoins save Rs. 17\n55 sold\nPunjab",
+        "price": 582.0,
+        "link": "https://www.daraz.pk/products/sweat-belt-waist-trainer-body-adjustable-girdle-trimmer-gym-sports-caloric-burner-workout-fitness-abs-sweat-wrap-tummy-slimming-posture-support-belt-i674294879.html",
+        "curr_sell_vol": 13600.0
+    }
+}

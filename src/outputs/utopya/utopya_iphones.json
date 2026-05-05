@@ -1,0 +1,22 @@
+[
+  {
+    "name": "https://www.utopya.fr/apple/iphone/iphone-14-pro.html",
+    "url": "https://www.utopya.fr/apple/iphone/iphone-14-pro.html",
+    "offers": [
+      {
+        "variant": "default",
+        "price": "160,85€"
+      }
+    ]
+  },
+  {
+    "name": "https://www.utopya.fr/apple/iphone/iphone-14.html",
+    "url": "https://www.utopya.fr/apple/iphone/iphone-14.html",
+    "offers": [
+      {
+        "variant": "default",
+        "price": "78,02€"
+      }
+    ]
+  }
+]

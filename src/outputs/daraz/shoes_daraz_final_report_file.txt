@@ -1,0 +1,32 @@
+{
+    "0": {
+        "title": "Premium Black suede Loafers with White foamy Sole \u2013 Stylish & Comfortable Casual Shoes for Men\nRs. 3,599\nPunjab",
+        "price": 3599.0,
+        "link": "https://www.daraz.pk/products/-i610925159.html",
+        "curr_sell_vol": 1.0
+    },
+    "1": {
+        "title": "Mens Running Shoes Men Sports Sneakers Men Sport Shoes Red Sports Tennis Shoes Sports Gym Sneakers Men Shoes Summer Casual Shoes Red Size Sneakers Outdoor Running Shoes Fashion Sports Shoes Comfortable Breathable\nRs. 799\n4.1K sold\n(818)\nPunjab",
+        "price": 799.0,
+        "link": "https://www.daraz.pk/products/-i390519475.html",
+        "curr_sell_vol": 307.0
+    },
+    "2": {
+        "title": "Sneakers Shoes Stylish Sneakers For Men Premium Imported Men's Sneakers with Flyknit Upper and Rubber Sole\nRs. 1,899\n32 sold\n(4)\nPunjab",
+        "price": 1899.0,
+        "link": "https://www.daraz.pk/products/-i421688713.html",
+        "curr_sell_vol": 4100.0
+    },
+    "3": {
+        "title": "Mens Running Shoes Men Sports Sneakers Men Sport Shoes Red Sports Tennis Shoes Sports Gym Sneakers Men Shoes Summer Casual Shoes Red Size Sneakers Outdoor Running Shoes Fashion Sports Shoes Comfortable Breathable\nRs. 999\n31 sold\n(2)\nPunjab",
+        "price": 999.0,
+        "link": "https://www.daraz.pk/products/-i488431056.html",
+        "curr_sell_vol": 9200.0
+    },
+    "4": {
+        "title": "New Full Trending Stylish Dunkfusion Style Sneaker Shoes For Mens Light Weight Comfortable Breathable Sneakers For Boys - High Quality - Shoes For - Men Shoes\nRs. 1,093\n155 sold\n(20)\nPunjab",
+        "price": 1093.0,
+        "link": "https://www.daraz.pk/products/new-full-trending-stylish-dunkfusion-style-sneaker-shoes-for-mens-light-weight-comfortable-breathable-sneakers-for-boys-high-quality-shoes-for-men-shoes-i669861079.html",
+        "curr_sell_vol": 20100.0
+    }
+}

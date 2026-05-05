@@ -1,0 +1,68 @@
+{
+    "0": {
+        "title": "Bluetooth Wireless One Side Earphone Samsung Smart Sports and Gaming Headphone Noise Reduction Headset With Mic/i12 TWS And Inpods 12 Waterproof Portable Earbuds Full Set With Box For IOS, ANDROID (Features i7s,i11,i12,i15,i18) the shopefy\nRs. 271\nCoins save Rs. 3\nPunjab",
+        "price": 271.0,
+        "link": "https://www.daraz.pk/products/i12-tws-12-ios-i7s-i11-i12-i15-i18-i630271466.html",
+        "curr_sell_vol": 1.0
+    },
+    "1": {
+        "title": "\u3010Fast delivery+FREE Shipping\u3011XIAOMI Mijia Bone Conduction Wireless Headphones Gaming Headsets Noise Canceling Earphones Hifi Stereo Sound Bluetooth Earbuds\nRs. 1,110\nCoins save Rs. 33\n7 sold\nOverseas",
+        "price": 1110.0,
+        "link": "https://www.daraz.pk/products/hifi-i578567701.html",
+        "curr_sell_vol": 103.0
+    },
+    "2": {
+        "title": "Y30 TWS Wireless Blutooth 5.0 Earphone 3D Stereo Sound Headset Music In-ear Earbuds For Android IOS Smart Phone\nRs. 1,099\n9 sold\nPunjab",
+        "price": 1099.0,
+        "link": "https://www.daraz.pk/products/tws-y30-50-3d-ios-i665994799.html",
+        "curr_sell_vol": 398.0
+    },
+    "3": {
+        "title": "Timack\u00ae Original X87 AirPods_Pro Bluetooth Earphones TWS Wireless Headphones with LED Display Stereo Headset Touch Control Earbuds Noise Reduction Bluetooth Handfree for all cell phones\nRs. 1,499\nCoins save Rs. 15\n20 sold\n(39)\nOverseas",
+        "price": 1499.0,
+        "link": "https://www.daraz.pk/products/x87-tws-led-i424358789.html",
+        "curr_sell_vol": 1100.0
+    },
+    "4": {
+        "title": "BUY 1 GET 1 Blutooth Handfree Wireless Bluetooth Headset Good Quality Bluetooth Handsfree Earphone for e & all Smart Phone\nRs. 549\n6 sold\n(1)\nPunjab",
+        "price": 549.0,
+        "link": "https://www.daraz.pk/products/buy-1-get-1-blutooth-handfree-wireless-bluetooth-headset-good-quality-bluetooth-handsfree-earphone-for-e-all-smart-phone-i218129015.html",
+        "curr_sell_vol": 1800.0
+    },
+    "5": {
+        "title": "\u2665Original Product+FREE Shipping+COD\u2665HP-A6S Bluetooth 5.0 Earphones Wireless Headphones Earbuds In Ear Sport Music Outdoor Headset with Mic Original\nRs. 1,199\n5.2K sold\n(454)\nOverseas",
+        "price": 1199.0,
+        "link": "https://www.daraz.pk/products/codhp-a6s-50-i471677594.html",
+        "curr_sell_vol": 8700.0
+    },
+    "6": {
+        "title": "Airpods Air Pro 3rd Gen TWS (True Wireless Stereo) Bluetooth Earbuds Dual Earphones Headset (Connect With All Bluetooth Devices).BLUETOOTH handfree\nRs. 830\n58.0K sold\n(2617)\nPunjab",
+        "price": 830.0,
+        "link": "https://www.daraz.pk/products/3rd-tws-i477231979.html",
+        "curr_sell_vol": 9900.0
+    },
+    "7": {
+        "title": "Orignal TWS Airpods with Super Sound & High Quality Touch Sensors True Stereo Headphones with Built in Mic 10m Transmission Bluetooth Wireless Earbuds , Case Sport Headset for all Bluetooth Smart devices.-Color Family white\nRs. 827\n75.3K sold\n(2867)\nPunjab",
+        "price": 827.0,
+        "link": "https://www.daraz.pk/products/tws-10-i473588320.html",
+        "curr_sell_vol": 58000.0
+    },
+    "8": {
+        "title": "Air 31 airpods dual 5.2 Earbuds handfree bluetooth Wireless Earbuds Headphones I7 Mini Bluetooth Headset Earbud Single Wireless Earphone With Mic Stereo For all phones\nRs. 695\n49.1K sold\n(2823)\nPunjab",
+        "price": 695.0,
+        "link": "https://www.daraz.pk/products/31-52-i7-i280841902.html",
+        "curr_sell_vol": 75300.0
+    },
+    "9": {
+        "title": "inPods 12 True Wireless earbuds Stereo BT V5.0 Dual Air Buds PRo- M10 Bluetooth Earphones ear buds with Power Bank For Android ios - Black\nRs. 790\nCoins save Rs. 16\n7.7K sold\n(789)\nPunjab",
+        "price": 790.0,
+        "link": "https://www.daraz.pk/products/inpods-12-true-wireless-earbuds-stereo-bt-v50-dual-air-buds-pro-m10-bluetooth-earphones-ear-buds-with-power-bank-for-android-ios-black-i455251073.html",
+        "curr_sell_vol": 144700.0
+    },
+    "10": {
+        "title": "Airpods_Pro A9 ANC/ENC Dauble Dark Noise Reduction Battery Display Touch Control Bass Boosted Sound Quality Bluetooth Wireless Earbuds For Android and iOS/Airpods pro/Airpods pro black/Ambie/Airpods\nRs. 1,949\n10.1K sold\n(1120)\nPunjab",
+        "price": 1949.0,
+        "link": "https://www.daraz.pk/products/airpods_pro-a9-ancenc-dauble-dark-noise-reduction-battery-display-touch-control-bass-boosted-sound-quality-bluetooth-wireless-earbuds-for-android-and-iosairpods-proairpods-pro-blackambieairpods-i501087719.html",
+        "curr_sell_vol": 171400.0
+    }
+}

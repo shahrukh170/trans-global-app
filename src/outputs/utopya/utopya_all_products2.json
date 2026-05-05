@@ -1,0 +1,408 @@
+[
+    {
+        "brand": "apple",
+        "model": "iPhone 16e",
+        "url": "https://www.utopya.fr/apple/iphone/iphone-16e.html",
+        "listing": {
+            "screens": [
+                {
+                    "name": "Ecran Complet iPhone 16e (Service Pack)",
+                    "url": "https://www.utopya.fr/displayeinheit-iphone-16e-service-pack-4.html",
+                    "price": "214,90€"
+                },
+                {
+                    "name": "Ecran Complet IPhone 16e (ReLife)",
+                    "url": "https://www.utopya.fr/ecran-complet-iphone-16e-relife.html",
+                    "price": "55,00€"
+                },
+                {
+                    "name": "Ecran Complet iPhone 16e (Soft OLED) (BOLT)",
+                    "url": "https://www.utopya.fr/ecran-complet-iphone-16e-soft-oled-bolt.html",
+                    "price": "29,50€"
+                },
+                {
+                    "name": "Ecran Complet iPhone 16e (LTPS)",
+                    "url": "https://www.utopya.fr/ecran-complet-iphone-16e-ltps.html",
+                    "price": "15,60€"
+                },
+                {
+                    "name": "Vitre Arrière Complete Noire iPhone 16e (Avec MagSafe) (Sans Logo)",
+                    "url": "https://www.utopya.fr/vitre-arriere-complete-iphone-16e-avec-magsafe-sans-logo.html",
+                    "price": "8,86€"
+                },
+                {
+                    "name": "Vitre Arrière Complète Blanc iPhone 16e (Avec MagSafe) (Sans Logo)",
+                    "url": "https://www.utopya.fr/vitre-arriere-complete-blanc-iphone-16e-avec-magsafe-sans-logo.html",
+                    "price": "8,86€"
+                },
+                {
+                    "name": "Vitre Arrière Complète Noir iPhone 16e (Avec MagSafe) (Sans Logo)",
+                    "url": "https://www.utopya.fr/vitre-arriere-complete-noir-iphone-16e-avec-magsafe-sans-logo.html",
+                    "price": "8,86€"
+                },
+                {
+                    "name": "Adhésif Ecran iPhone 14/16e (Boite de 50)",
+                    "url": "https://www.utopya.fr/adhesif-ecran-iphone-14-boite-de-50.html",
+                    "price": "7,98€"
+                },
+                {
+                    "name": "Adhésif Vitre Arrière iPhone 14/16e (Boite de 50)",
+                    "url": "https://www.utopya.fr/adhesif-vitre-arriere-iphone-14-boite-de-50.html",
+                    "price": "7,32€"
+                },
+                {
+                    "name": "Adhésif Vitre Arrière iPhone 14/16e",
+                    "url": "https://www.utopya.fr/adhesif-arriere-iphone-14.html",
+                    "price": "0,16€"
+                }
+            ],
+            "batteries": [
+                {
+                    "name": "Batterie iPhone 16e (Service Pack)",
+                    "url": "https://www.utopya.fr/akku-iphone-16e-service-pack-281.html",
+                    "price": "46,50€"
+                },
+                {
+                    "name": "Adhésif Batterie iPhone 16e (Boite de 20)",
+                    "url": "https://www.utopya.fr/adhesif-batterie-iphone-16e-boite-de-20.html",
+                    "price": "2,03€"
+                },
+                {
+                    "name": "Adhésif Batterie iPhone 16e",
+                    "url": "https://www.utopya.fr/adhesif-batterie-iphone-16e.html",
+                    "price": "0,29€"
+                }
+            ],
+            "cameras": [
+                {
+                    "name": "Caméra Arrière iPhone 16e (ReLife)",
+                    "url": "https://www.utopya.fr/camera-arriere-iphone-16e-relife.html",
+                    "price": "29,92€"
+                },
+                {
+                    "name": "Caméra Avant iPhone 16e (ReLife)",
+                    "url": "https://www.utopya.fr/camera-avant-iphone-16e-relife.html",
+                    "price": "23,38€"
+                },
+                {
+                    "name": "Lentille Camera iPhone 16e",
+                    "url": "https://www.utopya.fr/lentille-camera-iphone-16e.html",
+                    "price": "0,69€"
+                }
+            ],
+            "connectors": [
+                {
+                    "name": "Connecteur de Charge iPhone 16e (Blanc) (ReLife)",
+                    "url": "https://www.utopya.fr/connecteur-de-charge-iphone-16e-blanc-relife.html",
+                    "price": "22,66€"
+                },
+                {
+                    "name": "Connecteur de Charge iPhone 16e (Noir) (ReLife)",
+                    "url": "https://www.utopya.fr/connecteur-de-charge-iphone-16e-noir-relife.html",
+                    "price": "21,20€"
+                },
+                {
+                    "name": "Connecteur de Charge Blanc iPhone 16e",
+                    "url": "https://www.utopya.fr/connecetur-de-charge-blanc-iphone-16e.html",
+                    "price": "20,49€"
+                },
+                {
+                    "name": "Connecteur de Charge Noir iPhone 16e",
+                    "url": "https://www.utopya.fr/connecetur-de-charge-noir-iphone-16e.html",
+                    "price": "20,49€"
+                }
+            ],
+            "others": [
+                {
+                    "name": "Tiroir SIM iPhone 16e (Blanc) (ReLIfe)",
+                    "url": "https://www.utopya.fr/tiroir-sim-iphone-16e-blanc-relife.html",
+                    "price": "0,51€"
+                },
+                {
+                    "name": "Tiroir SIM iPhone 16e (Noir) (ReLIfe)",
+                    "url": "https://www.utopya.fr/tiroir-sim-iphone-16e-noir-relife.html",
+                    "price": "0,51€"
+                },
+                {
+                    "name": "Châssis Central iPhone 16e",
+                    "url": "https://www.utopya.fr/chassis-central-iphone-16e.html",
+                    "price": "52,43€"
+                },
+                {
+                    "name": "Aimant MagSafe iPhone 16e",
+                    "url": "https://www.utopya.fr/aimant-magsafe-iphone-16e.html",
+                    "price": "19,03€"
+                },
+                {
+                    "name": "Ecouteur Interne iPhone 16e (ReLife)",
+                    "url": "https://www.utopya.fr/ecouteur-interne-iphone-16e-relife.html",
+                    "price": "3,05€"
+                },
+                {
+                    "name": "Set de Vis Complet iPhone 16e",
+                    "url": "https://www.utopya.fr/set-de-vis-complet-iphone-16e.html",
+                    "price": "1,89€"
+                },
+                {
+                    "name": "Vibreur iPhone 16e",
+                    "url": "https://www.utopya.fr/vibreur-iphone-16e.html",
+                    "price": "0,73€"
+                },
+                {
+                    "name": "Vibreur iPhone 16e (ReLife)",
+                    "url": "https://www.utopya.fr/vibreur-iphone-16e-relife.html",
+                    "price": "0,73€"
+                }
+            ],
+            "flex_cables": [
+                {
+                    "name": "Nappe Flash iPhone 16e",
+                    "url": "https://www.utopya.fr/nappe-flash-iphone-16e.html",
+                    "price": "14,67€"
+                },
+                {
+                    "name": "Ecouteur Interne + Nappe Wi-Fi iPhone 16e",
+                    "url": "https://www.utopya.fr/ecouteur-interne-nappe-wi-fi-iphone-16e.html",
+                    "price": "3,20€"
+                },
+                {
+                    "name": "Nappe Capteur de Proximité iPhone 16e",
+                    "url": "https://www.utopya.fr/nappe-capteur-de-proximite-iphone-16e.html",
+                    "price": "1,45€"
+                }
+            ],
+            "buttons": [
+                {
+                    "name": "Nappe Bouton Volume iPhone 16e",
+                    "url": "https://www.utopya.fr/nappe-bouton-volume-iphone-16e.html",
+                    "price": "5,22€"
+                }
+            ],
+            "audio": [
+                {
+                    "name": "Haut-Parleur iPhone 16e",
+                    "url": "https://www.utopya.fr/haut-parleur-iphone-16e-ou1h.html",
+                    "price": "2,90€"
+                },
+                {
+                    "name": "Haut-Parleur iPhone 16e (ReLife)",
+                    "url": "https://www.utopya.fr/haut-parleur-iphone-16e-relife-tr09.html",
+                    "price": "2,32€"
+                }
+            ]
+        }
+    },
+    {
+        "brand": "samsung",
+        "model": "A80 (A805F)",
+        "url": "https://www.utopya.fr/samsung/galaxy-a/a80-a805f.html",
+        "listing": {
+            "screens": [
+                {
+                    "name": "Ecran Complet Noir Galaxy A80 (A805F)",
+                    "url": "https://www.utopya.fr/catalog/product/view/id/54926/s/ecran-complet-noir-galaxy-a80-a805f/category/2096/",
+                    "price": "62,28€"
+                },
+                {
+                    "name": "Ecran Complet Or OLED Galaxy A80 (A805F) (Avec châssis)",
+                    "url": "https://www.utopya.fr/ecran-complet-or-oled-galaxy-a80-a805f-avec-chassis.html",
+                    "price": "50,02€"
+                },
+                {
+                    "name": "Ecran Complet Argent OLED Galaxy A80 (A805F) (Avec châssis)",
+                    "url": "https://www.utopya.fr/ecran-complet-argent-oled-galaxy-a80-a805f-avec-chassis.html",
+                    "price": "49,91€"
+                },
+                {
+                    "name": "Ecran Complet Noir OLED Galaxy A80 (A805F) (Avec châssis)",
+                    "url": "https://www.utopya.fr/ecran-complet-noir-oled-galaxy-a80-a805f-avec-chassis.html",
+                    "price": "49,00€"
+                },
+                {
+                    "name": "Vitre Arrière Argent Galaxy A80 (A805F)",
+                    "url": "https://www.utopya.fr/vitre-arriere-argent-galaxy-a80-a805f.html",
+                    "price": "19,35€"
+                },
+                {
+                    "name": "Vitre Arrière Or Galaxy A80 (A805F)",
+                    "url": "https://www.utopya.fr/vitre-arriere-or-galaxy-a80-a805f.html",
+                    "price": "18,99€"
+                }
+            ],
+            "batteries": [
+                {
+                    "name": "Batterie Galaxy A80 (A805F)",
+                    "url": "https://www.utopya.fr/batterie-eb-ba905abu.html",
+                    "price": "3,53€"
+                }
+            ],
+            "cameras": [
+                {
+                    "name": "Caméra Arrière 48+8+TOF Galaxy A80 (A805F)",
+                    "url": "https://www.utopya.fr/camera-arriere-48-8-tof-galaxy-a80-a805f.html",
+                    "price": "75,40€"
+                },
+                {
+                    "name": "Caméra Arrière Galaxy A80 (A805F)",
+                    "url": "https://www.utopya.fr/camera-arriere-galaxy-a80-a805f.html",
+                    "price": "8,20€"
+                },
+                {
+                    "name": "Adhésif Caméra Slide Galaxy A80 (A805F)",
+                    "url": "https://www.utopya.fr/adhesif-camera-slide-galaxy-a80-a805f.html",
+                    "price": "0,20€"
+                },
+                {
+                    "name": "Adhésif Caméra Slide R Galaxy A80 (A805F)",
+                    "url": "https://www.utopya.fr/adhesif-camera-slide-r-galaxy-a80-a805f.html",
+                    "price": "0,20€"
+                }
+            ],
+            "connectors": [
+                {
+                    "name": "Connecteur de Charge Galaxy A80 (A805F)",
+                    "url": "https://www.utopya.fr/connecteur-de-charge-galaxy-a80-a805f.html",
+                    "price": "10,60€"
+                }
+            ],
+            "others": [
+                {
+                    "name": "Tiroir Sim Blanc Galaxy A80 (A805F)",
+                    "url": "https://www.utopya.fr/tiroir-sim-blanc-galaxy-a80-a805f.html",
+                    "price": "2,04€"
+                },
+                {
+                    "name": "Chassis Arrière Coulissant Noir Galaxy A80 (A805F)",
+                    "url": "https://www.utopya.fr/chassis-arriere-coulissant-noir-galaxy-a80-a805f.html",
+                    "price": "19,63€"
+                },
+                {
+                    "name": "Vibreur Galaxy A80 (A805F)",
+                    "url": "https://www.utopya.fr/vibreur-galaxy-a80-a805f.html",
+                    "price": "15,50€"
+                },
+                {
+                    "name": "Capteur d’Empreinte Galaxy A50/A80 (A505F/A805F)",
+                    "url": "https://www.utopya.fr/capteur-d-empreinte-galaxy-a50a80-a505fa805f.html",
+                    "price": "0,78€"
+                },
+                {
+                    "name": "Câble Coaxial Blanc 100,8 mm Galaxy A80 (A805F)",
+                    "url": "https://www.utopya.fr/cable-coaxial-blanc-100-8-mm-galaxy-a80-a805f.html",
+                    "price": "0,30€"
+                },
+                {
+                    "name": "Câble Coaxial Bleu 91,3 mm Galaxy A80 (A805F)",
+                    "url": "https://www.utopya.fr/cable-coaxial-bleu-91-3-mm-galaxy-a80-a805f.html",
+                    "price": "0,29€"
+                },
+                {
+                    "name": "Extracteur SIM Samsung Série A",
+                    "url": "https://www.utopya.fr/extracteur-sim-samsung-serie-a.html",
+                    "price": "0,25€"
+                },
+                {
+                    "name": "Extracteur SIM (type Samsung)",
+                    "url": "https://www.utopya.fr/extracteur-sim-type-samsung.html",
+                    "price": "0,16€"
+                }
+            ],
+            "flex_cables": [
+                {
+                    "name": "Nappe Caméra Droite Galaxy A80 (A805F)",
+                    "url": "https://www.utopya.fr/nappe-camera-droite-galaxy-a80-a805f.html",
+                    "price": "6,37€"
+                },
+                {
+                    "name": "Nappe Principale Galaxy A80 (A805F)",
+                    "url": "https://www.utopya.fr/nappe-principale-galaxy-a80-a805f192.html",
+                    "price": "5,03€"
+                },
+                {
+                    "name": "Nappe Caméra Gauche Galaxy A80 (A805F)",
+                    "url": "https://www.utopya.fr/nappe-camera-gauche-galaxy-a80-a805f.html",
+                    "price": "4,83€"
+                },
+                {
+                    "name": "Nappe Power Galaxy A80 (A805F)",
+                    "url": "https://www.utopya.fr/catalog/product/view/id/48533/s/nappe-power-galaxy-a80-a805f/category/2096/",
+                    "price": "0,90€"
+                }
+            ],
+            "audio": [
+                {
+                    "name": "Haut-Parleur Galaxy A80 (A805F)",
+                    "url": "https://www.utopya.fr/haut-parleur-galaxy-a80-a805f-x7tx.html",
+                    "price": "5,40€"
+                }
+            ]
+        }
+    },
+    {
+        "brand": "xiaomi",
+        "model": "Poco X6",
+        "url": "https://www.utopya.fr/xiaomi/serie-poco/poco-x6.html",
+        "listing": {
+            "screens": [
+                {
+                    "name": "Ecran Complet Noir Xiami Poco X6 5G",
+                    "url": "https://www.utopya.fr/ecran-complet-noir-poco-x6-5g.html",
+                    "price": "46,90€"
+                },
+                {
+                    "name": "Ecran Complet Noir Poco X6 (Avec Châssis) (ReLife)",
+                    "url": "https://www.utopya.fr/ecran-complet-noir-poco-x6-5g-avec-chassis-relife.html",
+                    "price": "25,06€"
+                }
+            ],
+            "cameras": [
+                {
+                    "name": "Caméra Arrière Principale 64MP Poco X6",
+                    "url": "https://www.utopya.fr/camera-arriere-principale-64mp-poco-x6.html",
+                    "price": "3,53€"
+                },
+                {
+                    "name": "Caméra Avant Poco X6",
+                    "url": "https://www.utopya.fr/camera-avant-poco-x6.html",
+                    "price": "1,50€"
+                },
+                {
+                    "name": "Caméra Arrière Grand Angle 8MP Poco X6",
+                    "url": "https://www.utopya.fr/camera-arriere-grand-angle-8mp-poco-x6.html",
+                    "price": "1,50€"
+                },
+                {
+                    "name": "Caméra Arrière 2MP Macro Poco X6",
+                    "url": "https://www.utopya.fr/camera-arriere-2mp-macro-poco-x6.html",
+                    "price": "0,80€"
+                },
+                {
+                    "name": "Lentille Caméra Poco X6 5G",
+                    "url": "https://www.utopya.fr/lentille-camera-poco-x6-5g.html",
+                    "price": "0,41€"
+                }
+            ],
+            "connectors": [
+                {
+                    "name": "Connecteur de Charge Poco X6",
+                    "url": "https://www.utopya.fr/connecteur-de-charge-poco-x6.html",
+                    "price": "1,86€"
+                }
+            ],
+            "audio": [
+                {
+                    "name": "Haut-Parleur Poco X6",
+                    "url": "https://www.utopya.fr/haut-parleur-poco-x6.html",
+                    "price": "0,73€"
+                }
+            ],
+            "others": [
+                {
+                    "name": "Ecouteur Interne Poco X6",
+                    "url": "https://www.utopya.fr/ecouteur-interne-poco-x6.html",
+                    "price": "0,35€"
+                }
+            ]
+        }
+    }
+]
